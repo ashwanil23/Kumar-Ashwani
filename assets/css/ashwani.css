@@ -12143,7 +12143,12 @@ pre .code {
   opacity: .8;
   color: black;
 }
-
+.header-titl {
+  font-size: 0.8rem;
+  font-weight: bold;
+  opacity: 0.8;
+  color: black;
+}
 .header-mini {
   min-height: 24rem;
   height: 24rem;
