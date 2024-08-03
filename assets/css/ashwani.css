@@ -12250,7 +12250,7 @@ pre .code {
 
 .scrolling-content {
   display: inline-block;
-  animation: scroll 30s linear infinite;
+  animation: scroll 20s linear infinite;
 }
 
 .scrolling-content img {
@@ -12282,3 +12282,6 @@ pre .code {
     font-size: 1.2em; /* Adjust font size if needed */
 }
 
+.education {
+  padding: 15px; /* Adjust the padding as needed */
+}
