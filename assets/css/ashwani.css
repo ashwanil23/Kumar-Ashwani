@@ -379,6 +379,14 @@ h6, .h6 {
   font-size: 1rem;
 }
 
+.box-rounded {
+  border: 2px solid #000; /* Border color and thickness */
+  border-radius: 15px; /* Adjust to make the corners more or less rounded */
+  padding: 10px; /* Space inside the box */
+  display: inline-block; /* Makes the box fit the content size */
+}
+
+
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
