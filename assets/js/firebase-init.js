@@ -6,7 +6,7 @@ import { getDatabase, ref, onValue, set, increment } from "firebase/database";
 const firebaseConfig = {
     apiKey: "AIzaSyBzON9zV1vk0bEHy0RNCT2gMPRHqwV9moE",
     authDomain: "catch-me-b26c4.firebaseapp.com",
-    databaseURL: "https://catch-me-b26c4-default-rtdb.firebaseio.com", // Add this line
+    databaseURL: "https://catch-me-b26c4-default-rtdb.firebaseio.com/",
     projectId: "catch-me-b26c4",
     storageBucket: "catch-me-b26c4.appspot.com",
     messagingSenderId: "750251102043",
